@@ -49,8 +49,8 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 
 int main(void) {
     
-    printf("Name:Namachivayam T\n");
-    printf("Regisgter Number:212223060179\n");
+    printf("Name:Sudeendra JS\n");
+    printf("Regisgter Number:212223060276\n");
     printf("Hello, World from QNX!\n");
     return 0;
 }
